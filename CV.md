@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mitko
 - 👀 I’m interested in Feminism 
-- 🌱 I’m currently learning Denisism
+- 🌱 I’m currently learning Python
 - 📫 How to reach me - dimichaprvt@gmail.com 
 - ⚡ Fun fact: 194
 
